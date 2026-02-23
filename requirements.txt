@@ -1,0 +1,8 @@
+gradio
+tensorflow
+numpy
+pillow
+pandas
+h5py
+protobuf
+keras
